@@ -1,4 +1,4 @@
-##File Structure Overview: 
+## File Structure Overview: 
 
 /OneCodexHW:    Root
 
